@@ -35,5 +35,5 @@ export default {
 </script>
 
 <style>
-  /* @import  './styles/reset.css';*/
+   @import  './styles/reset.less';
 </style>
