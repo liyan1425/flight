@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Index from '../views/index/index.vue'
-import Login from '../views/login/index.vue'
-import Register from '../views/register/index.vue'
-import PersonalCenter from '../views/personalCenter/index.vue'
+import Index from '../views/index.vue'
+import Login from '../views/login.vue'
+import Register from '../views/register.vue'
+import PersonalCenter from '../views/personalCenter.vue'
 
 Vue.use(Router)
 let router = new Router({
